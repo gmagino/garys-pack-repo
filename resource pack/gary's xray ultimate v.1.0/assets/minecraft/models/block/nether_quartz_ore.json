@@ -1,0 +1,8 @@
+{
+"__comment": "Copyright 2018 Filmjolk David Grindholmen",
+    "parent": "block/solid_all",
+	"ambientocclusion": false,
+    "textures": {
+        "all": "block/nether_quartz_ore"
+    }
+}

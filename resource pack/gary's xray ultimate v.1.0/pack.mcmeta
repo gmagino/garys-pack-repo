@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "a fork of Xray Ultimate, with fixes for lighting in non optifine clients"
+  }
+}
